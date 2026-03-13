@@ -1,4 +1,4 @@
-# 🎀 Metaheuristic Optimization Algorithms 🎀
+# ——⭑⋆⋆ Metaheuristic Optimization Algorithms ⋆⋆⭑——
 
 This repository contains several implementations and experimental analyses of **metaheuristic optimization algorithms**, focusing on their behavior on benchmark numerical functions and combinatorial optimization problems.
 
